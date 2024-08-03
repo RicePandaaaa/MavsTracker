@@ -1,0 +1,9 @@
+# Ignore compiled (cached) files
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+.venv/
+
+# Ignore environment directories
+.env
